@@ -46,7 +46,7 @@ The downloaded folder contains all the in-house additional scripts needed to do 
 ## USAGE
 
 ```	
-kineto.py <step> [options] <organism_name>
+kineto_v5.1.py <step> [options] <organism_name>
 
 Input files:
 	
@@ -56,6 +56,7 @@ Input files:
 	organism_name.gff (from triTrypDB)
 		
 Transcriptome assembling steps (organism_v0):
+
 ### STEP 1:
 	-1	SeqLider search
 		Polya search 
